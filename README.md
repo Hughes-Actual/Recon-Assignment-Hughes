@@ -11,7 +11,7 @@ This project documents a vulnerability assessment conducted in the TryHackMe env
 
 ## 🔍 Scan Summary
 
-📄 A detailed PDF report is available in the [`docs/Hughes_Benjamin_Recon_Assignment.pdf`](docs/Hughes_Benjamin_Recon_Assignment.pdf) file.
+📄 A detailed report is available in the [`scan_output/Hughes_Benjamin_Recon_Assignment.txt`](scan_output/Hughes_Benjamin_Recon_Assignment.txt) file.
 
 **Target IP:** `10.10.173.154`  
 **Command Used:**
