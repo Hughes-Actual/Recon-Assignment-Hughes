@@ -11,6 +11,8 @@ This project documents a vulnerability assessment conducted in the TryHackMe env
 
 ## 🔍 Scan Summary
 
+📄 The full vulnerability assessment write-up is available in the [`scan_output/nmap_scan.txt`](scan_output/nmap_scan.txt) file.
+
 **Target IP:** `10.10.173.154`  
 **Command Used:**
 ```bash
@@ -45,7 +47,7 @@ sudo nmap -p- -O -sS -sV -sC -A -T4 10.10.173.154
 ## 🖼️ Screenshot
 ![Nmap Scan Screenshot](images/nmap_scan.png)
 
-## 📄 Report
-The full vulnerability assessment write-up is available in the [`docs/`](docs/) folder.
+## 📄 Scenario
+The full assessment scenario is available in the [`docs/`](docs/) folder.
 
 ---
