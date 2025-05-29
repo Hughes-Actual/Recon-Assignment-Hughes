@@ -11,7 +11,7 @@ This project documents a vulnerability assessment conducted in the TryHackMe env
 
 ## 🔍 Scan Summary
 
-📄 The full vulnerability assessment write-up is available in the [`scan_output/nmap_scan.txt`](scan_output/nmap_scan.txt) file.
+📄 A detailed PDF report is available in the [`docs/Hughes_Benjamin_Recon_Assignment.pdf`](docs/Hughes_Benjamin_Recon_Assignment.pdf) file.
 
 **Target IP:** `10.10.173.154`  
 **Command Used:**
